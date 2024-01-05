@@ -6,4 +6,4 @@ function getRecord(id) {
         }
         return response.json();
     })
-};
+}
