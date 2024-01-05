@@ -4,4 +4,4 @@ getRecord(id)
 })
 .catch(error => {
     console.error(error);
-})
+});
